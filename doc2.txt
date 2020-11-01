@@ -1,2 +1,2 @@
 Bye world
-hotfix fixed
+bugfix fixed
